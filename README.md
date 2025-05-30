@@ -41,7 +41,7 @@ Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte de
 
 Como Rodar o Projeto:
 * Clone ou faça o download do repositório.
-* Abra o arquivo index.html em um navegador de sua escolha.
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fdanielamota79%2Fmeio-ambiente%2F&psig=AOvVaw0Hc_OsRXuR3PTxldOYu3Br&ust=1748698193329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjD2samy40DFQAAAAAdAAAAABAK 
 
 #### Contribuições
 Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
