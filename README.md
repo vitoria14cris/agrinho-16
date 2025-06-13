@@ -40,7 +40,7 @@ Reflexão final sobre a necessidade de ações para combater o desmatamento, inc
 Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte dessa causa!".
 
 Como Rodar o Projeto:
-<img src="imagem.jpg" alt="Descrição da imagem" width="300" height="200">
+images.jpeg
 
 #### Contribuições
 Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
