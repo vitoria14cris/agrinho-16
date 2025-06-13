@@ -40,9 +40,7 @@ Reflexão final sobre a necessidade de ações para combater o desmatamento, inc
 Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte dessa causa!".
 
 Como Rodar o Projeto:
-* Clone ou faça o download do repositório.
-* https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fdanielamota79%2Fmeio-ambiente%2F&psig=AOvVaw0Hc_OsRXuR3PTxldOYu3Br&ust=1748698193329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjD2samy40DFQAAAAAdAAAAABAK
-* https://desviantes.blob.core.windows.net/desviantes/media/uploads/4ebcee710a671e91f8b965ce60a79d04.jpg
+<img src="imagem.jpg" alt="Descrição da imagem" width="300" height="200">
 
 #### Contribuições
 Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
