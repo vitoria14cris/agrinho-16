@@ -1,4 +1,7 @@
-O desmatamento é um dos maiores desafios ambientais da atualidade, e suas causas e impactos vão muito além do que os números e estatísticas podem mostrar. Ao humanizar esse tema, conseguimos entender a complexidade e as consequências diretas que ele tem sobre a vida das pessoas, das comunidades e até sobre as culturas tradicionais que dependem dos ecossistemas naturais para sobreviver.
+O ENPACTO DO DESMATAMENTO.
+
+
+ O desmatamento é um dos maiores desafios ambientais da atualidade, e suas causas e impactos vão muito além do que os números e estatísticas podem mostrar. Conseguimos entender a complexidade e as consequências diretas que ele tem sobre a vida das pessoas, das comunidades e até sobre as culturas tradicionais que dependem dos ecossistemas naturais para sobreviver.
 
 Causas do Desmatamento
 Expansão da Agricultura: Em muitas regiões, especialmente em países em desenvolvimento, grandes áreas de floresta são derrubadas para dar lugar à produção agrícola, como a soja, o milho e a criação de gado. Isso pode ser visto como uma solução econômica imediata para muitas famílias, mas, a longo prazo, essas áreas não conseguem sustentar a biodiversidade e a fertilidade do solo.
