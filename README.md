@@ -35,8 +35,6 @@ A solução para o desmatamento exige uma abordagem integrada, onde tanto as que
 
 O desmatamento, quando olhado com empatia e compreensão humana, se revela como um problema multifacetado e, ao mesmo tempo, uma oportunidade de transformação. Se conseguimos entender as histórias por trás das estatísticas, é possível criar soluções que atendam às necessidades humanas sem sacrificar o meio ambiente.
 
-Você gostaria de explorar mais algum aspecto desse tema ou discutir soluções específicas?
-
 
 
 
